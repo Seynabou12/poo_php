@@ -22,7 +22,7 @@
     
     //donner à Marie une age de 28ans
     
-    $personne1 ->setAge(28);
+    $personne1 ->setAge(29);
     echo 'Aprés modification on obtient'."\n";
     $personne1 -> affichagePersonne();
 
